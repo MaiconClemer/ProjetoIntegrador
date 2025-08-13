@@ -1,0 +1,17 @@
+E:\ProjetoIntegrador\SenacCadPress\bin\Debug\net8.0-windows\SenacCadPress.exe
+E:\ProjetoIntegrador\SenacCadPress\bin\Debug\net8.0-windows\SenacCadPress.deps.json
+E:\ProjetoIntegrador\SenacCadPress\bin\Debug\net8.0-windows\SenacCadPress.runtimeconfig.json
+E:\ProjetoIntegrador\SenacCadPress\bin\Debug\net8.0-windows\SenacCadPress.dll
+E:\ProjetoIntegrador\SenacCadPress\bin\Debug\net8.0-windows\SenacCadPress.pdb
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.Form1.resources
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.csproj.GenerateResource.cache
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.AssemblyInfoInputs.cache
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.AssemblyInfo.cs
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.csproj.CoreCompileInputs.cache
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.sourcelink.json
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.dll
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\refint\SenacCadPress.dll
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.pdb
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\SenacCadPress.genruntimeconfig.cache
+E:\ProjetoIntegrador\SenacCadPress\obj\Debug\net8.0-windows\ref\SenacCadPress.dll
