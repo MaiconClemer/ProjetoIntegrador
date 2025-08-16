@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SenacCadPress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fbfd7c80123b11ef53b5110764321f760573c16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17790acc4a00dd8d34681f98e0e5c4527398504f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SenacCadPress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SenacCadPress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
