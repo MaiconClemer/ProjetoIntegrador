@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj": {}
+    "C:\\Users\\maico\\source\\repos\\MaiconClemer\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj": {}
   },
   "projects": {
-    "E:\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj": {
+    "C:\\Users\\maico\\source\\repos\\MaiconClemer\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj",
+        "projectUniqueName": "C:\\Users\\maico\\source\\repos\\MaiconClemer\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj",
         "projectName": "SenacCadPress",
-        "projectPath": "E:\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj",
-        "packagesPath": "C:\\Users\\Maicon\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjetoIntegrador\\SenacCadPress\\obj\\",
+        "projectPath": "C:\\Users\\maico\\source\\repos\\MaiconClemer\\ProjetoIntegrador\\SenacCadPress\\SenacCadPress.csproj",
+        "packagesPath": "C:\\Users\\maico\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maico\\source\\repos\\MaiconClemer\\ProjetoIntegrador\\SenacCadPress\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Maicon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maico\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

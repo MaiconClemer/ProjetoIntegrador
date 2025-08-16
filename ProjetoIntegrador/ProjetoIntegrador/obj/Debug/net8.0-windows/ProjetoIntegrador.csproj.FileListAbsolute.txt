@@ -1,0 +1,17 @@
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.exe
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.deps.json
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.runtimeconfig.json
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.dll
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.pdb
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.GenerateResource.cache
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.dll
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\refint\ProjetoIntegrador.dll
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.pdb
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.genruntimeconfig.cache
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ref\ProjetoIntegrador.dll
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormNomeAluno.resources
+C:\Users\maicon.clemer\source\repos\MaiconClemer\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.sourcelink.json
