@@ -4,5 +4,11 @@
     <Compile Update="CadPress.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="UsuarioNovo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
