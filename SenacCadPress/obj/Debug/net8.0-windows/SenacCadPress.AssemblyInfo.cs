@@ -14,21 +14,9 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SenacCadPress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17790acc4a00dd8d34681f98e0e5c4527398504f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b60706dbaf97d12ae20984b84f79ee4a2ecc98")]
 [assembly: System.Reflection.AssemblyProductAttribute("SenacCadPress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SenacCadPress")]
-=======
-<<<<<<< HEAD:SenacCadPress/obj/Debug/net8.0-windows/SenacCadPress.AssemblyInfo.cs
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fbfd7c80123b11ef53b5110764321f760573c16")]
-[assembly: System.Reflection.AssemblyProductAttribute("SenacCadPress")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SenacCadPress")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30640b0ffc84de896b6fd2abc5115b45c8aaba53")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProjetoIntegrador")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProjetoIntegrador")]
->>>>>>> 8fbfd7c80123b11ef53b5110764321f760573c16:ProjetoIntegrador/ProjetoIntegrador/obj/Debug/net8.0-windows/ProjetoIntegrador.AssemblyInfo.cs
->>>>>>> 17790acc4a00dd8d34681f98e0e5c4527398504f
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

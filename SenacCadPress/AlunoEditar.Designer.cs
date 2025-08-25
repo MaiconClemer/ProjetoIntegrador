@@ -1,14 +1,14 @@
 ﻿namespace SenacCadPress
 {
-    partial class CadPress
+    partial class AlunoEditar
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -23,11 +23,14 @@
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
+            label2 = new Label();
+            button3 = new Button();
+            textBox1 = new TextBox();
             menuStrip1 = new MenuStrip();
             toolStripMenuItem1 = new ToolStripMenuItem();
             cadastrosToolStripMenuItem = new ToolStripMenuItem();
@@ -51,13 +54,38 @@
             sairToolStripMenuItem = new ToolStripMenuItem();
             deslogarToolStripMenuItem = new ToolStripMenuItem();
             fecharOProgramaToolStripMenuItem = new ToolStripMenuItem();
-            label2 = new Label();
             label3 = new Label();
             textBox2 = new TextBox();
             button1 = new Button();
-            textBox3 = new TextBox();
+            label1 = new Label();
+            richTextBox1 = new RichTextBox();
             menuStrip1.SuspendLayout();
             SuspendLayout();
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(282, 124);
+            label2.Name = "label2";
+            label2.Size = new Size(28, 15);
+            label2.TabIndex = 18;
+            label2.Text = "CPF";
+            // 
+            // button3
+            // 
+            button3.Location = new Point(531, 141);
+            button3.Name = "button3";
+            button3.Size = new Size(75, 23);
+            button3.TabIndex = 17;
+            button3.Text = "Pesquisar";
+            button3.UseVisualStyleBackColor = true;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(282, 142);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(205, 23);
+            textBox1.TabIndex = 16;
             // 
             // menuStrip1
             // 
@@ -67,7 +95,7 @@
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Padding = new Padding(5, 2, 0, 2);
             menuStrip1.Size = new Size(800, 24);
-            menuStrip1.TabIndex = 3;
+            menuStrip1.TabIndex = 13;
             menuStrip1.Text = "menuStrip1";
             // 
             // toolStripMenuItem1
@@ -75,7 +103,6 @@
             toolStripMenuItem1.Name = "toolStripMenuItem1";
             toolStripMenuItem1.Size = new Size(50, 20);
             toolStripMenuItem1.Text = "Entrar";
-            toolStripMenuItem1.Click += toolStripMenuItem1_Click;
             // 
             // cadastrosToolStripMenuItem
             // 
@@ -209,69 +236,66 @@
             fecharOProgramaToolStripMenuItem.Size = new Size(174, 22);
             fecharOProgramaToolStripMenuItem.Text = "Fechar o programa";
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(258, 121);
-            label2.Name = "label2";
-            label2.Size = new Size(28, 15);
-            label2.TabIndex = 6;
-            label2.Text = "CPF";
-            // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(258, 176);
+            label3.Location = new Point(282, 224);
             label3.Name = "label3";
-            label3.Size = new Size(39, 15);
-            label3.TabIndex = 8;
-            label3.Text = "Senha";
+            label3.Size = new Size(40, 15);
+            label3.TabIndex = 20;
+            label3.Text = "Nome";
+            label3.Click += label3_Click;
             // 
             // textBox2
             // 
-            textBox2.AllowDrop = true;
-            textBox2.Location = new Point(258, 194);
-            textBox2.Margin = new Padding(3, 2, 3, 2);
+            textBox2.Location = new Point(282, 242);
             textBox2.Name = "textBox2";
-            textBox2.PasswordChar = '*';
-            textBox2.Size = new Size(248, 23);
-            textBox2.TabIndex = 7;
+            textBox2.Size = new Size(205, 23);
+            textBox2.TabIndex = 19;
             // 
             // button1
             // 
-            button1.Location = new Point(306, 240);
-            button1.Margin = new Padding(3, 2, 3, 2);
+            button1.Location = new Point(531, 241);
             button1.Name = "button1";
-            button1.Size = new Size(146, 38);
-            button1.TabIndex = 9;
-            button1.Text = "Entrar";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 21;
+            button1.Text = "Salvar";
             button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
-            // textBox3
+            // label1
             // 
-            textBox3.Location = new Point(258, 147);
-            textBox3.Margin = new Padding(3, 2, 3, 2);
-            textBox3.Name = "textBox3";
-            textBox3.PasswordChar = '*';
-            textBox3.Size = new Size(248, 23);
-            textBox3.TabIndex = 10;
+            label1.AutoSize = true;
+            label1.Location = new Point(12, 60);
+            label1.Name = "label1";
+            label1.Size = new Size(67, 15);
+            label1.TabIndex = 23;
+            label1.Text = "Mensagens";
             // 
-            // CadPress
+            // richTextBox1
+            // 
+            richTextBox1.Location = new Point(12, 78);
+            richTextBox1.Name = "richTextBox1";
+            richTextBox1.Size = new Size(197, 360);
+            richTextBox1.TabIndex = 22;
+            richTextBox1.Text = "";
+            // 
+            // AlunoEditar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(textBox3);
+            Controls.Add(label1);
+            Controls.Add(richTextBox1);
             Controls.Add(button1);
             Controls.Add(label3);
             Controls.Add(textBox2);
             Controls.Add(label2);
+            Controls.Add(button3);
+            Controls.Add(textBox1);
             Controls.Add(menuStrip1);
-            MainMenuStrip = menuStrip1;
-            Name = "CadPress";
+            Name = "AlunoEditar";
             Text = "Form1";
-            Load += Form1_Load;
+            Load += AlunoEditar_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);
@@ -279,6 +303,10 @@
         }
 
         #endregion
+
+        private Label label2;
+        private Button button3;
+        private TextBox textBox1;
         private MenuStrip menuStrip1;
         private ToolStripMenuItem toolStripMenuItem1;
         private ToolStripMenuItem cadastrosToolStripMenuItem;
@@ -295,18 +323,17 @@
         private ToolStripMenuItem editarToolStripMenuItem2;
         private ToolStripMenuItem excluirToolStripMenuItem2;
         private ToolStripMenuItem imprimirToolStripMenuItem;
+        private ToolStripMenuItem verificarSaldoToolStripMenuItem;
+        private ToolStripMenuItem pesquisarClienteToolStripMenuItem;
+        private ToolStripMenuItem todosToolStripMenuItem;
         private ToolStripMenuItem adicionarSaldoToolStripMenuItem;
         private ToolStripMenuItem sairToolStripMenuItem;
         private ToolStripMenuItem deslogarToolStripMenuItem;
         private ToolStripMenuItem fecharOProgramaToolStripMenuItem;
-        private ToolStripMenuItem verificarSaldoToolStripMenuItem;
-        private ToolStripMenuItem pesquisarClienteToolStripMenuItem;
-        private ToolStripMenuItem todosToolStripMenuItem;
-        private TextBox textBox1;
-        private Label label2;
         private Label label3;
         private TextBox textBox2;
         private Button button1;
-        private TextBox textBox3;
+        private Label label1;
+        private RichTextBox richTextBox1;
     }
 }

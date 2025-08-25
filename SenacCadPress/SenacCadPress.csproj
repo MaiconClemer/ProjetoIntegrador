@@ -9,6 +9,33 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Update="AdicionarSaldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VerirficarSaldoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VerirficarSaldoTodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Imprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlunoExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlunoEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlunoNovo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsuarioExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsuarioEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
